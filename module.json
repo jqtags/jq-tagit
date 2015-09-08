@@ -1,0 +1,11 @@
+{
+	"name": "jqtags/jq-tagit",
+	"jqtags/jq-time": {
+		"js": ["jqtags.tagit.js"],
+		"on": ["webmodules/jqtag"]
+	},
+	"jqtags/jq-time/test": {
+		"js": ["test/jqtags.tagit.test.js"],
+		"on": ["webmodules/jqtag"]
+	}
+}

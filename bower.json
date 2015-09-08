@@ -1,0 +1,11 @@
+{
+	"name": "jqtags-jq-tagit",
+	"main": "jatags.tagit.js",
+	"authors": ["Animesh <kanimesh.s@gmail.com>"],
+	"description": "custom html element for tags",
+	"keywords": ["pitana", "jquery","tags"],
+	"dependencies": {
+		"webmodules-jqtag": ">=0.0.1"
+	},
+	"license": "MIT"
+}
